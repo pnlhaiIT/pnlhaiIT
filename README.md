@@ -1,5 +1,6 @@
-## Hi there 👋 I'm Phạm Nguyễn Long Hải
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋+I'm+Phạm+Nguyễn+Long+Hải"/>
+</h1>
 <!--
 **pnlhaiIT/pnlhaiIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
