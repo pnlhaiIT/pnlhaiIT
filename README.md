@@ -20,9 +20,7 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 </p>
-<p>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pnlhaiIT&theme=dark)
-</p>
+
 <!--
 **pnlhaiIT/pnlhaiIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
